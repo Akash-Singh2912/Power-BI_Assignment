@@ -1,2 +1,2 @@
-# AdventureWorksDW_Assignment-1_Power-BI
+# AdventureWorksDW_Assignments_Power-BI
 Power BI Assignment and Projects
